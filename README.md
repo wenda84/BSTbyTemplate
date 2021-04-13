@@ -4,7 +4,7 @@ a binary search tree with cpp template, only a header file.
 # how to test
 \# cd src/
 
-\# make
+\# make  
 g++ main.cc -g -std=c++11 -o runTree
 
 \# ./runTree  
