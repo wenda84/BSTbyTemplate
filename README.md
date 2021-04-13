@@ -23,4 +23,3 @@ g++ main.cc -g -std=c++11 -o runTree
   max=666  
   88 not found  
   55 found  
-
