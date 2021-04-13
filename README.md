@@ -1,5 +1,5 @@
 # BSTbyTemplate
-a binary search tree with cpp template, only a header file.
+a binary search tree with cpp template, only a header file(bTree.hpp).
 
 # how to test
 \# cd src/
