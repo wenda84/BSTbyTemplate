@@ -8,7 +8,6 @@ a binary search tree with cpp template, only a header file.
 g++ main.cc -g -std=c++11 -o runTree
 
 \# ./runTree
-
               ____100________
              /               \
            _89              __200____
