@@ -1,13 +1,16 @@
 # BSTbyTemplate
+
 a binary search tree with cpp template, only a header file(bTree.hpp).
 
-# how to test
-\# cd src/
+## how to test
 
-\# make  
+~~~shell
+# cd src/
+
+# make  
 g++ main.cc -g -std=c++11 -o runTree
 
-\# ./runTree  
+# ./runTree  
 
                 ____100________  
                /               \  
@@ -15,7 +18,7 @@ g++ main.cc -g -std=c++11 -o runTree
             /   \            /         \  
        ____77    99       __150       __666  
       /                  /           /  
-    _33                 101         333  
+    _33                 101         333
    /   \  
   22    55  
     
@@ -23,3 +26,4 @@ g++ main.cc -g -std=c++11 -o runTree
   max=666  
   88 not found  
   55 found  
+  ~~~
